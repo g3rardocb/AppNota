@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppNota</string>
+    <string name="titulo">Titulo</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="cambiar_color">Cambiar Color</string>
+    <string name="eliminar_nota">Eliminar Nota</string>
+    <string name="agregar_nota">Agregar Nota</string>
+</resources>
